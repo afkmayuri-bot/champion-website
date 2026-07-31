@@ -15,7 +15,7 @@ const Header = () => {
     { path: '/testimonials', label: 'Testimonials' },
     { path: '/contact', label: 'Contact' },
     { 
-      path: 'https://champions.classy.institute/', 
+      path: 'https://championstutorials.collegedoors.com/',  
       label: 'Online Exam Portal', 
       external: true,
       icon: '📝'
